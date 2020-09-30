@@ -1,2 +1,2 @@
 # c.007-digitsSum
- a method that returns the sum of the digits of a number 
+ a function that returns the sum of the digits of a number 
