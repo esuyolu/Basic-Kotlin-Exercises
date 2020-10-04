@@ -13,13 +13,12 @@ fun printPrimeFactors(a: Int)
 {
     var b = a
 
-    for (i in 2..a) {
+    for (i in 2..a) 
         while (b % i == 0)
             if (isPrime(i)) {
                 println(i)
                 b /= i
             }
-    }
 }
 
 fun isPrime(a: Int) : Boolean
