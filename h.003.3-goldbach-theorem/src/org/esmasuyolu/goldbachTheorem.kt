@@ -11,10 +11,9 @@ fun main()
 
 fun goldbachTheorem(a: Int)
 {
-    for (i in 2..(a - 2)) {
+    for (i in 2..(a - 2)) 
         if (isPrime(i) && isPrime(a - i))
             println("$a = $i + ${(a - i)}")
-    }
 }
 
 fun isPrime(a: Int) : Boolean
