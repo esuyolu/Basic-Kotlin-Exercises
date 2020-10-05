@@ -1,0 +1,2 @@
+# h.004.2-is-primeX
+ whether the argument sent to the isPrimeX method is prime or not is to be tested, if the number is prime, this time it will be tested whether the number obtained is sum and the prime of the number. This process will continue until a single-digit number remains in the end. If all numbers, including the most recent single digit, are prime The isPrimeX method will revert to true. If a non-prime number is obtained at any step, the method will return false.
