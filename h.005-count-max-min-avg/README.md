@@ -1,0 +1,2 @@
+# h.005-count-max-min-avg
+ write the program that calculates the total number, the largest, the smallest and the average of the integer values entered on the keyboard. before each value entry, the user will be asked if he wants to enter a new value. array will not be used in the source program. the values entered must be in the range [0-100]. during the entry of an invalid value, "invalid value" warning will be written on the screen and a new entry will be requested.
